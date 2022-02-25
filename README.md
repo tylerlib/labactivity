@@ -1,4 +1,4 @@
-# Readme
+# Birthday Burrito
 
 This code is written for one purpose. To find out everyone's birthday, then if it is said person's birthday, then they get an email for a free burrito from Chipotle.
 They then realize once they get there, they do not get a free burrito and were scammed.
