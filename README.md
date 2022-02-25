@@ -4,6 +4,8 @@ This code is written for one purpose. To find out everyone's birthday, then if i
 They then realize once they get there, they do not get a free burrito and were scammed.
 Then their birthday is ruined and they are burrito-less and upset driving home from chipotle.
 
+## How to Contribute
+It would be nice if you helped with a problem we are currently having. For some reason everyone that is born in January the program is not correctly working. It would be greatly appreciated if you put your time and effort into solving this issue.
 
 
 # Code of Conduct and License choice
